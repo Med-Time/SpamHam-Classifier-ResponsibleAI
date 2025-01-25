@@ -1,11 +1,9 @@
-flask
 numpy
-opencv-python
-tensorflow
-keras
-pillow
+pandas
+sklearn
+matplotlib
+seaborn
 raiwidgets
-kagglehub
-aif360
+lime
 shap
-fairlearn
+responsibleai
