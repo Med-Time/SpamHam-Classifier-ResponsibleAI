@@ -1,0 +1,11 @@
+flask
+numpy
+opencv-python
+tensorflow
+keras
+pillow
+raiwidgets
+kagglehub
+aif360
+shap
+fairlearn
